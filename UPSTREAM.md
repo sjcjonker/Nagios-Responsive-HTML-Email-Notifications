@@ -12,7 +12,7 @@ original responsive notification design. No license was present in the
 upstream repository when this implementation was prepared, so the original PHP
 source is intentionally not copied here and no license claim is made over it.
 
-Before making this repository public, contact the upstream author with a link,
-thank him for the original work, explain the relationship, and invite a license
-clarification or a preferred way to collaborate.
+The original project's author and repository are credited above. This Python
+implementation remains independent; contributions or coordination with the
+original author are welcome. The original PHP sources are not redistributed.
 
